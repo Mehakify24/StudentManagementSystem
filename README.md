@@ -14,12 +14,13 @@ A full-stack user management application with Student and Admin roles, featuring
 
 ## Screenshots
 
-![Screenshot 1](student-auth/image-1.png)
-![Screenshot 2](student-auth/image-2.png)
-![Screenshot 3](student-auth/image-3.png)
-![Screenshot 4](student-auth/image-4.png)
-![Screenshot 5](student-auth/image-5.png)
-![Screenshot 6](student-auth/image-6.png)
+
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
 
 ## Quick Start
 
